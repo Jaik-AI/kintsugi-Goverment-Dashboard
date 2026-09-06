@@ -46,7 +46,7 @@ export default function GovernmentHeader({ alertCount = 5 }) {
         <div className="gov-header__brand">
           {/* Official Kintsugi Care Logo */}
           <div className="gov-header__logo-wrap" title="Kintsugi Care — Healing. Nurturing. Together.">
-            <img src="/kintsugi-logo.jpg" alt="Kintsugi Care Logo" className="gov-header__logo-img" />
+            <img src="/kintsugi-logo.png" alt="Kintsugi Care Logo" className="gov-header__logo-img" />
           </div>
           <div>
             <div className="gov-header__jurisdiction">{t.jurisdiction}</div>
